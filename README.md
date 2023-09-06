@@ -1,5 +1,4 @@
 # kkiwiio🥝
-### Hi there 👋
 
 
 <!--
@@ -16,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hello my name is YOUNA KIM
+### Hello my name is YOUNA KIM
 - 🌱 I’m currently learning DATA ANALYST
 - 🔭 I’m currently studying on UBION 7, SKHU
 
