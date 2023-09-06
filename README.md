@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hello my name is YOUNA KIM
 - 🌱 I’m currently learning DATA ANALYST
-- 🔭 I’m currently studying on UBION 7
+- 🔭 I’m currently studying on UBION 7, SKHU
 
 
 ![Youna's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkiwiio&show_icons=true&theme=dracula)
